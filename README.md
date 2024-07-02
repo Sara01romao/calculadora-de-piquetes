@@ -18,7 +18,7 @@
 
 
 
-A "Calculadora de Piquetes" é uma ferramenta que auxilia produtores rurais a otimizar o uso das pastagens, permitindo um planejamento eficiente dos períodos de pastejo e descanso para garantir uma produção sustentável e eficiente
+A "Calculadora de Piquetes" é uma ferramenta que auxilia produtores rurais a otimizar o uso das pastagens, permitindo um planejamento eficiente dos períodos de pastejo e descanso para garantir uma produção sustentável e eficiente.
 
 
 <br />
